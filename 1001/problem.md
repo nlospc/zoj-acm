@@ -31,3 +31,7 @@ For each pair of input integers a and b you should output the sum of a and b in 
 
 Use + operator
 
+### result
+
+![result](http://biangbiangpic.b0.upaiyun.com/blog/d7aca22da24a31dedb96570198da33d5.jpg)
+
