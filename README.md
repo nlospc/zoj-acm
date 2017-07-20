@@ -1,6 +1,5 @@
-zoj-acm
-=======
+# zoj-acm
 
-store some code as I was a zoj acm boy
+coder && happy
 
 http://acm.zju.edu.cn/
